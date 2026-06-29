@@ -1,0 +1,2 @@
+# Vendor_Performance_Data_analytics_EndToEndProject
+Vendor-Performance-Analysis/ │├── Vendor_Performance_Analysis.ipynb ├── VendorData.csv ├── BrandPerformance.csv ├── LowTurnoverVendor.csv ├── PurchaseContribution.csv ├── vendor_sales_summary.csv │├── images/ │├── pareto_chart.png │├── donut_chart.png │├── heatmap.png |├── scatterplot.png │ └── dashboard.png │├── VendorDashboard.pbix ├── README.md 
